@@ -1,0 +1,8 @@
+Context API--
+
+provides  a way to share values betn components without explicitly passing prop through each level
+
+  --- has
+  createContext()
+  Provider
+  useContext

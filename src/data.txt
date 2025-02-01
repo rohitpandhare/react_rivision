@@ -1,0 +1,7 @@
+states in React
+
+useState
+'''
+const [count,setCount] = useState(0); --> intial state value
+    -State var  - func(=To update state)
+'''
